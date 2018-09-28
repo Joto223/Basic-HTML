@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<head>
+  <h1> Favorite Anime of 2018 </h1>
+  <a href="#footer"> got to bottom</a>
+</head>
+
+<body>
+
+  <p> You are asked to replace the text you see into the paragraph </p>
+
+</body>
+
+
+<h6 id="footer"> current as of Sept 2018 </h6>
+</html>
